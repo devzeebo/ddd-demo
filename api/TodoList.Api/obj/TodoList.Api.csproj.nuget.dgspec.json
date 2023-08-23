@@ -1,0 +1,303 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/devzeebo/git/improving/ddd/api/TodoList.Api/TodoList.Api.csproj": {}
+  },
+  "projects": {
+    "/home/devzeebo/git/improving/ddd/api/TodoList.Api/TodoList.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/devzeebo/git/improving/ddd/api/TodoList.Api/TodoList.Api.csproj",
+        "projectName": "TodoList.Api",
+        "projectPath": "/home/devzeebo/git/improving/ddd/api/TodoList.Api/TodoList.Api.csproj",
+        "packagesPath": "/home/devzeebo/.nuget/packages/",
+        "outputPath": "/home/devzeebo/git/improving/ddd/api/TodoList.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/devzeebo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/devzeebo/git/improving/ddd/api/TodoList.App/TodoList.App.csproj": {
+                "projectPath": "/home/devzeebo/git/improving/ddd/api/TodoList.App/TodoList.App.csproj"
+              },
+              "/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/TodoList.Infrastructure.csproj": {
+                "projectPath": "/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/TodoList.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.9, 7.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/devzeebo/git/improving/ddd/api/TodoList.App/TodoList.App.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/devzeebo/git/improving/ddd/api/TodoList.App/TodoList.App.csproj",
+        "projectName": "TodoList.App",
+        "projectPath": "/home/devzeebo/git/improving/ddd/api/TodoList.App/TodoList.App.csproj",
+        "packagesPath": "/home/devzeebo/.nuget/packages/",
+        "outputPath": "/home/devzeebo/git/improving/ddd/api/TodoList.App/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/devzeebo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/devzeebo/git/improving/ddd/api/TodoList.Domain/TodoList.Domain.csproj": {
+                "projectPath": "/home/devzeebo/git/improving/ddd/api/TodoList.Domain/TodoList.Domain.csproj"
+              },
+              "/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/TodoList.Infrastructure.csproj": {
+                "projectPath": "/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/TodoList.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.9, 7.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/devzeebo/git/improving/ddd/api/TodoList.Domain/TodoList.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/devzeebo/git/improving/ddd/api/TodoList.Domain/TodoList.Domain.csproj",
+        "projectName": "TodoList.Domain",
+        "projectPath": "/home/devzeebo/git/improving/ddd/api/TodoList.Domain/TodoList.Domain.csproj",
+        "packagesPath": "/home/devzeebo/.nuget/packages/",
+        "outputPath": "/home/devzeebo/git/improving/ddd/api/TodoList.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/devzeebo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.9, 7.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/TodoList.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/TodoList.Infrastructure.csproj",
+        "projectName": "TodoList.Infrastructure",
+        "projectPath": "/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/TodoList.Infrastructure.csproj",
+        "packagesPath": "/home/devzeebo/.nuget/packages/",
+        "outputPath": "/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/devzeebo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/devzeebo/git/improving/ddd/api/TodoList.Domain/TodoList.Domain.csproj": {
+                "projectPath": "/home/devzeebo/git/improving/ddd/api/TodoList.Domain/TodoList.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.9, 7.0.9]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

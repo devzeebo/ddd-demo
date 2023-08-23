@@ -1,0 +1,15 @@
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/bin/Debug/net7.0/TodoList.Infrastructure.deps.json
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/bin/Debug/net7.0/TodoList.Infrastructure.dll
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/bin/Debug/net7.0/TodoList.Infrastructure.pdb
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/bin/Debug/net7.0/TodoList.Domain.dll
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/bin/Debug/net7.0/TodoList.Domain.pdb
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/obj/Debug/net7.0/TodoList.Infrastructure.csproj.AssemblyReference.cache
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/obj/Debug/net7.0/TodoList.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/obj/Debug/net7.0/TodoList.Infrastructure.AssemblyInfoInputs.cache
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/obj/Debug/net7.0/TodoList.Infrastructure.AssemblyInfo.cs
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/obj/Debug/net7.0/TodoList.Infrastructure.csproj.CoreCompileInputs.cache
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/obj/Debug/net7.0/TodoList.Infrastructure.csproj.CopyComplete
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/obj/Debug/net7.0/TodoList.Infrastructure.dll
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/obj/Debug/net7.0/refint/TodoList.Infrastructure.dll
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/obj/Debug/net7.0/TodoList.Infrastructure.pdb
+/home/devzeebo/git/improving/ddd/api/TodoList.Infrastructure/obj/Debug/net7.0/ref/TodoList.Infrastructure.dll

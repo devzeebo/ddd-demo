@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JZ4Hh1F1ef5Ya5h+uam6bcWV9ipgmD65+L3qcqs4t65hls2VUmYRndixXWif7BXOhJyyCLO/SB3ZK4moEIlUFQ==",
+  "success": true,
+  "projectFilePath": "/home/devzeebo/git/improving/ddd/api/TodoList.Domain/TodoList.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/devzeebo/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.9/microsoft.aspnetcore.app.ref.7.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

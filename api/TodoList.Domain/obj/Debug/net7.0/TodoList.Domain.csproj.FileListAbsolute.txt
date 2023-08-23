@@ -1,0 +1,12 @@
+/home/devzeebo/git/improving/ddd/api/TodoList.Domain/bin/Debug/net7.0/TodoList.Domain.deps.json
+/home/devzeebo/git/improving/ddd/api/TodoList.Domain/bin/Debug/net7.0/TodoList.Domain.dll
+/home/devzeebo/git/improving/ddd/api/TodoList.Domain/bin/Debug/net7.0/TodoList.Domain.pdb
+/home/devzeebo/git/improving/ddd/api/TodoList.Domain/obj/Debug/net7.0/TodoList.Domain.csproj.AssemblyReference.cache
+/home/devzeebo/git/improving/ddd/api/TodoList.Domain/obj/Debug/net7.0/TodoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/devzeebo/git/improving/ddd/api/TodoList.Domain/obj/Debug/net7.0/TodoList.Domain.AssemblyInfoInputs.cache
+/home/devzeebo/git/improving/ddd/api/TodoList.Domain/obj/Debug/net7.0/TodoList.Domain.AssemblyInfo.cs
+/home/devzeebo/git/improving/ddd/api/TodoList.Domain/obj/Debug/net7.0/TodoList.Domain.csproj.CoreCompileInputs.cache
+/home/devzeebo/git/improving/ddd/api/TodoList.Domain/obj/Debug/net7.0/TodoList.Domain.dll
+/home/devzeebo/git/improving/ddd/api/TodoList.Domain/obj/Debug/net7.0/refint/TodoList.Domain.dll
+/home/devzeebo/git/improving/ddd/api/TodoList.Domain/obj/Debug/net7.0/TodoList.Domain.pdb
+/home/devzeebo/git/improving/ddd/api/TodoList.Domain/obj/Debug/net7.0/ref/TodoList.Domain.dll
